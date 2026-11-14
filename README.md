@@ -10,6 +10,20 @@ countries (leave-one-country-out and external validation), and measures socioeco
 > corresponding manuscripts are published. Results are reported in the associated article
 > (citation and DOI to be added after publication).
 
+## Abstract
+
+Manuscript in preparation; the full text will be made available after publication.
+
+**Background.** Antenatal HIV testing enables prevention of mother-to-child transmission (PMTCT), but coverage remains unequal in sub-Saharan Africa (SSA). We developed machine learning models, assessed transportability and equity, and measured socioeconomic inequality.
+
+**Methods.** We analysed the latest Demographic and Health Surveys (DHS) with fieldwork from 2018 in 23 SSA countries, including 99,285 women aged 15-49 with a live birth in the preceding 24 months. The outcome was HIV testing with receipt of results during antenatal care or delivery. Four algorithms using 19 predictors were developed in 16 countries with coverage <80% (Stratum A), assessed by leave-one-country-out (LOCO) validation, and tested externally in seven countries (Stratum B) and five 2015-2017 surveys. Assessments covered discrimination, calibration, SHapley Additive exPlanations (SHAP) importance, and wealth inequality (Erreygers-corrected concentration index, slope [SII] and relative [RII] indices).
+
+**Results.** Coverage was 59.8% (range 10.2-96.7%) and higher among wealthier women in 22 countries (Erreygers index 0.252; SII 39.4 percentage points; RII 1.94). Gradient boosting achieved internal area under the receiver operating characteristic curve (AUC) 0.801 (95% confidence interval 0.791-0.810) and Brier skill score 0.26; mean AUCs were 0.775 in LOCO, 0.70 in Stratum B and 0.74 in earlier surveys. Stratum B calibration was poor (intercept 2.39). Cross-validated local recalibration reduced Brier score from 0.19 to 0.07 (skill 0.12), preserving AUC. Stigma and PMTCT knowledge, measured after testing, led SHAP importance (32.2% and 18.9%), with stigma largely reflecting women who had never heard of HIV. AUC fell to 0.72 without these predictors and was 0.76 among women who had heard of HIV.
+
+**Conclusions.** Below 80% coverage, the model identified untested women with moderate, socioeconomically comparable discrimination, largely retained across countries and periods. Absolute probabilities require local recalibration. Targeting that prioritises the poorest women may help reduce this inequality.
+
+**Keywords:** HIV; vertical transmission; antenatal care; machine learning; transportability; health inequality
+
 ## Data are not included
 
 DHS microdata cannot be redistributed. To reproduce the analysis you need to:
