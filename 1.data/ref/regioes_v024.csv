@@ -1,0 +1,386 @@
+pais,v024,regiao_nome
+AO,1,cabinda
+AO,2,zaire
+AO,3,uíge
+AO,4,luanda
+AO,5,cuanza norte
+AO,6,cuanza sul
+AO,7,malanje
+AO,8,lunda norte
+AO,9,benguela
+AO,10,huambo
+AO,11,bié
+AO,12,moxico
+AO,13,cuando cubango
+AO,14,namibe
+AO,15,huíla
+AO,16,cunene
+AO,17,lunda sul
+AO,18,bengo
+BF,1,boucle du mouhoun
+BF,2,cascades
+BF,3,centre
+BF,4,centre est
+BF,5,centre nord
+BF,6,centre ouest
+BF,7,centre sud
+BF,8,est
+BF,9,hauts-bassins
+BF,10,nord
+BF,11,plateau central
+BF,12,sahel
+BF,13,sud-ouest
+BJ,1,alibori
+BJ,2,atacora
+BJ,3,atlantic
+BJ,4,borgou
+BJ,5,collines
+BJ,6,couffo
+BJ,7,donga
+BJ,8,littoral
+BJ,9,mono
+BJ,10,ouémé
+BJ,11,plateau
+BJ,12,zou
+BU,1,bubanza
+BU,2,bujumbura rural
+BU,3,bururi
+BU,4,cankuzo
+BU,5,cibitoke
+BU,6,gitega
+BU,7,karusi
+BU,8,kayanza
+BU,9,kirundo
+BU,10,makamba
+BU,11,muramvya
+BU,12,muyinga
+BU,13,mwaro
+BU,14,ngozi
+BU,15,rutana
+BU,16,ruyigi
+BU,17,bujumbura mairie
+BU,18,rumonge
+CD,1,kinshasa
+CD,2,kongo central
+CD,3,kwango
+CD,4,kwilu
+CD,5,mai-ndombe
+CD,6,equateur
+CD,7,nord ubangi
+CD,8,sud ubangi
+CD,9,mongala
+CD,10,tshuapa
+CD,11,tshopo
+CD,12,bas-uele
+CD,13,haut uele
+CD,14,ituri
+CD,15,nord-kivu
+CD,16,sud-kivu
+CD,17,maniema
+CD,18,haut-katanga
+CD,19,haut lomami
+CD,20,lualaba
+CD,21,tanganyika
+CD,22,lomami
+CD,23,sankuru
+CD,24,kasaï oriental
+CD,25,kasaï
+CD,26,kasaï central
+CI,1,abidjan
+CI,2,yamoussoukro
+CI,3,bas sassandra
+CI,4,comoe
+CI,5,denguele
+CI,6,goh-djiboua
+CI,7,lacs
+CI,8,lagunes
+CI,9,montagnes
+CI,10,sassandra-marahoue
+CI,11,savanes
+CI,12,vallee du bandama
+CI,13,woroba
+CI,14,zanzan
+CM,1,adamawa
+CM,2,centre (without yaounde)
+CM,3,douala
+CM,4,east
+CM,5,far-north
+CM,6,littoral (without douala)
+CM,7,north
+CM,8,north-west
+CM,9,west
+CM,10,south
+CM,11,south-west
+CM,12,yaounde
+GA,1,libreville
+GA,2,port-gentil
+GA,3,estuaire
+GA,4,haut-ogooué
+GA,5,moyen-ogooué
+GA,6,ngounié
+GA,7,nyanga
+GA,8,ogooué-ivindo
+GA,9,ogooué-lolo
+GA,10,ogooué-maritime
+GA,11,woleu-ntem
+GH,1,western
+GH,2,central
+GH,3,greater accra
+GH,4,volta
+GH,5,eastern
+GH,6,ashanti
+GH,7,western north
+GH,8,ahafo
+GH,9,bono
+GH,10,bono east
+GH,11,oti
+GH,12,northern
+GH,13,savannah
+GH,14,north east
+GH,15,upper east
+GH,16,upper west
+GM,1,banjul
+GM,2,kanifing
+GM,3,brikama
+GM,4,mansakonko
+GM,5,kerewan
+GM,6,kuntaur
+GM,7,janjanbureh
+GM,8,basse
+GN,1,boké
+GN,2,conakry
+GN,3,faranah
+GN,4,kankan
+GN,5,kindia
+GN,6,labé
+GN,7,mamou
+GN,8,n'zérékoré
+KE,1,mombasa
+KE,2,kwale
+KE,3,kilifi
+KE,4,tana river
+KE,5,lamu
+KE,6,taita taveta
+KE,7,garissa
+KE,8,wajir
+KE,9,mandera
+KE,10,marsabit
+KE,11,isiolo
+KE,12,meru
+KE,13,tharaka-nithi
+KE,14,embu
+KE,15,kitui
+KE,16,machakos
+KE,17,makueni
+KE,18,nyandarua
+KE,19,nyeri
+KE,20,kirinyaga
+KE,21,murang'a
+KE,22,kiambu
+KE,23,turkana
+KE,24,west pokot
+KE,25,samburu
+KE,26,trans nzoia
+KE,27,uasin gishu
+KE,28,elgeyo-marakwet
+KE,29,nandi
+KE,30,baringo
+KE,31,laikipia
+KE,32,nakuru
+KE,33,narok
+KE,34,kajiado
+KE,35,kericho
+KE,36,bomet
+KE,37,kakamega
+KE,38,vihiga
+KE,39,bungoma
+KE,40,busia
+KE,41,siaya
+KE,42,kisumu
+KE,43,homa bay
+KE,44,migori
+KE,45,kisii
+KE,46,nyamira
+KE,47,nairobi
+LB,1,north western
+LB,2,south central
+LB,3,south eastern a
+LB,4,south eastern b
+LB,5,north central
+LS,1,butha-buthe
+LS,2,leribe
+LS,3,berea
+LS,4,maseru
+LS,5,mafeteng
+LS,6,mohale's hoek
+LS,7,quthing
+LS,8,qacha's nek
+LS,9,mokhotlong
+LS,10,thaba-tseka
+MD,10,antananarivo
+MD,11,analamanga
+MD,12,vakinankaratra
+MD,13,itasy
+MD,14,bongolava
+MD,21,haute matsiatra
+MD,22,amoron i mania
+MD,23,vatovavy fitovinany
+MD,24,ihorombe
+MD,25,atsimo atsinanana
+MD,31,atsinanana
+MD,32,analanjirofo
+MD,33,alaotra mangoro
+MD,41,boeny
+MD,42,sofia
+MD,43,betsiboka
+MD,44,melaky
+MD,51,atsimo andrefana
+MD,52,androy
+MD,53,anosy
+MD,54,menabe
+MD,61,diana
+MD,62,sava
+ML,1,kayes
+ML,2,koulikoro
+ML,3,sikasso
+ML,4,ségou
+ML,5,mopti
+ML,6,tombouctou
+ML,7,gao
+ML,8,kidal
+ML,9,bamako
+ML,10,taoudenni
+ML,11,ménaka
+MR,1,hodh echargui
+MR,2,hodh gharbi
+MR,3,assaba
+MR,4,gorgol
+MR,5,brakna
+MR,6,trarza
+MR,7,adrar
+MR,8,dakhlet nouadhibou
+MR,9,tagant
+MR,10,guidimagha
+MR,11,tiris zemour et inchiri
+MR,12,nouakchott ouest
+MR,13,nouakchott nord
+MR,14,nouakchott sud
+MW,1,northern
+MW,2,central
+MW,3,southern
+MZ,1,niassa
+MZ,2,cabo delgado
+MZ,3,nampula
+MZ,4,zambézia
+MZ,5,tete
+MZ,6,manica
+MZ,7,sofala
+MZ,8,inhambane
+MZ,9,gaza
+MZ,10,maputo
+MZ,11,cidade de maputo
+NG,1,north west
+NG,2,north east
+NG,3,north central
+NG,4,south east
+NG,5,south south
+NG,6,south west
+RW,1,kigali
+RW,2,south
+RW,3,west
+RW,4,north
+RW,5,east
+SL,1,eastern
+SL,2,northern
+SL,3,north western
+SL,4,southern
+SL,5,western
+SN,1,dakar
+SN,2,ziguinchor
+SN,3,diourbel
+SN,4,saint-louis
+SN,5,tambacounda
+SN,6,kaolack
+SN,7,thiès
+SN,8,louga
+SN,9,fatick
+SN,10,kolda
+SN,11,matam
+SN,12,kaffrine
+SN,13,kedougou
+SN,14,sedhiou
+TZ,1,dodoma
+TZ,2,arusha
+TZ,3,kilimanjaro
+TZ,4,tanga
+TZ,5,morogoro
+TZ,6,pwani
+TZ,7,dar es salaam
+TZ,8,lindi
+TZ,9,mtwara
+TZ,10,ruvuma
+TZ,11,iringa
+TZ,12,mbeya
+TZ,13,singida
+TZ,14,tabora
+TZ,15,rukwa
+TZ,16,kigoma
+TZ,17,shinyanga
+TZ,18,kagera
+TZ,19,mwanza
+TZ,20,mara
+TZ,21,manyara
+TZ,22,njombe
+TZ,23,katavi
+TZ,24,simiyu
+TZ,25,geita
+TZ,26,songwe
+TZ,51,kaskazini unguja
+TZ,52,kusini unguja
+TZ,53,mjini magharibi
+TZ,54,kaskazini pemba
+TZ,55,kusini pemba
+UG,0,kampala
+UG,1,south buganda
+UG,2,north buganda
+UG,3,busoga
+UG,4,bukedi
+UG,5,bugisu
+UG,6,teso
+UG,7,karamoja
+UG,8,lango
+UG,9,acholi
+UG,10,west nile
+UG,11,bunyoro
+UG,12,tooro
+UG,13,ankole
+UG,14,kigezi
+ZA,1,western cape
+ZA,2,eastern cape
+ZA,3,northern cape
+ZA,4,free state
+ZA,5,kwazulu-natal
+ZA,6,north west
+ZA,7,gauteng
+ZA,8,mpumalanga
+ZA,9,limpopo
+ZM,1,central
+ZM,2,copperbelt
+ZM,3,eastern
+ZM,4,luapula
+ZM,5,lusaka
+ZM,6,muchinga
+ZM,7,northern
+ZM,8,north western
+ZM,9,southern
+ZM,10,western
+ZW,1,manicaland
+ZW,2,mashonaland central
+ZW,3,mashonaland east
+ZW,4,mashonaland west
+ZW,5,matabeleland north
+ZW,6,matabeleland south
+ZW,7,midlands
+ZW,8,masvingo
+ZW,9,harare
+ZW,10,bulawayo

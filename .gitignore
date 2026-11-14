@@ -1,0 +1,45 @@
+# LISTA POSITIVA: tudo é ignorado por padrão; só o que está liberado abaixo vai ao git.
+# Motivo: os microdados DHS não podem ser redistribuídos, e manuscritos, resultados
+# e parte do código são inéditos. Para liberar mais um ficheiro, acrescentar "!caminho".
+
+/*
+!/.gitignore
+!/.here
+!/README.md
+!/COMO_RODAR_OUTRA_MAQUINA.md
+!/*.Rproj
+
+# Dados: só a tabela de rótulos das regiões (sem microdados)
+!/1.data/
+/1.data/*
+!/1.data/ref/
+
+# Código: ficheiros auxiliares e as etapas do Estudo 1 (pipeline principal)
+!/2.code/
+/2.code/*
+!/2.code/R/
+!/2.code/00_acesso.R
+!/2.code/00_executar_tudo.R
+!/2.code/00_rodar_tudo.sh
+!/2.code/01_elegibilidade_desfecho.R
+!/2.code/02_limpeza.R
+!/2.code/03_descritiva.R
+!/2.code/04_desigualdades.R
+!/2.code/05_particoes.R
+!/2.code/06_modelos.R
+!/2.code/07_calibracao_interpretabilidade.R
+!/2.code/10_correlacao_preditores.R
+!/2.code/11_sensibilidade_dados.R
+!/2.code/15_sensibilidade_recalibracao.R
+!/2.code/18_desigualdade_corrigida.R
+!/2.code/19_revisao_modelos.R
+!/2.code/24_sens_nunca_ouviu.R
+
+# Sempre ignorar
+.Rhistory
+.RData
+.Rproj.user/
+renv/
+.DS_Store
+._*
+~$*
